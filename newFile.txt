@@ -1,3 +1,5 @@
+my my my
+
 with stash
 
 test file 1
