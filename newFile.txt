@@ -2,6 +2,8 @@ my my my
 
 with stash
 
+local shay
+
 tessssssss
 
 test file 1
